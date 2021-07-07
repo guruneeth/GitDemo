@@ -18,6 +18,12 @@ public class SeleniumTest {
 	}
 	
 	@Test
+	public void signoutUI() {
+		System.out.println("signoutUI");
+		
+	}
+	
+	@Test
 	public void loginUI() {
 		System.out.println("LoginUI");
 		
